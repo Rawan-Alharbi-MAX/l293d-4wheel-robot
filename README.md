@@ -138,3 +138,8 @@ void loop() {
   }
   stopMotors(); delay(2000);
 }
+
+
+صورة التوصيل:
+
+<img width="895" height="414" alt="l293d-4wheel-robot" src="https://github.com/user-attachments/assets/4d2bb7b3-d358-42d5-b5a8-916129d42604" />
